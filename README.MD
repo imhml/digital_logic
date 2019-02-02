@@ -1,0 +1,1 @@
+This repository contains the study materail of digital logic for BScCsIT
